@@ -1,4 +1,4 @@
-# shah-mat
+# Shah mat
 
 ## Boris Spassky
 
