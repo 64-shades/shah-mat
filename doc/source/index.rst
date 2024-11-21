@@ -7,14 +7,7 @@ Welcome to shah-mat's documentation!
 ====================================
 
 .. toctree::
+   :caption: Contents
    :maxdepth: 2
-   :caption: Contents:
 
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   top-novice-pitfalls.md
