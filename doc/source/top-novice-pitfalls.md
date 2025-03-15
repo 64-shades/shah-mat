@@ -20,7 +20,7 @@
 
 ## Arabian mate
 
-## Anastasia's Mate
+## Anastasia's mate
 
 ## Damiano's mate
 
@@ -33,6 +33,8 @@
 ## Smothered mate
 
 ## Legal's mate
+
+## Immortal Game mate
 
 ## The poisoned pawn
 
