@@ -1,4 +1,4 @@
-# ♛ Top Novice Pitfalls
+# ♛ Top Pitfalls
 
 ## Fools mate
 
@@ -19,6 +19,8 @@
 ## Checkmate on g7 (g2 for white)
 
 ## Arabian mate
+
+## Anastasia's Mate
 
 ## Damiano's mate
 
